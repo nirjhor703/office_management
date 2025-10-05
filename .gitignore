@@ -1,2 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+*.env
+*.DS_Store
+
+# Virtual Environments
 venv/
 env/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
